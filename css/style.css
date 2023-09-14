@@ -168,6 +168,10 @@ header {
     color: black;
 }
 
+.fa-magnifying-glass{
+    color: white;
+}
+
 .search-input {
     height: 50px;
     width: 230px;
@@ -257,6 +261,7 @@ header {
     border-radius: 25px;
     margin-right: 10px;
     color: #DEEBFF;
+    min-width: 20px;
 }
 
 /****** Hebergements And Populaires ***********/
@@ -636,6 +641,7 @@ body {
     
     .populaires {
         margin-top: 0px;
+        margin-bottom: 20px;
     }
 
     .populaires-cards {
