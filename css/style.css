@@ -322,6 +322,7 @@ header {
     object-position: center;
     border-radius: 15px 15px 0px 0px;
     padding-bottom: 5px;
+    object-fit: cover;
 }
 
 .hebergements-cards .card-title {
@@ -373,6 +374,7 @@ header {
     height: 136px;
     border-top-left-radius: 20px;
     border-bottom-left-radius: 20px;
+    object-fit: cover;
 }
 
 .populaires-cards .card-content {
@@ -674,6 +676,7 @@ body {
     .hebergements-cards img {
         height: 150px;
         width: 100%;
+        object-fit: cover;
     }
 
     
@@ -689,6 +692,7 @@ body {
    height: 141px; 
    border-radius: 20px 20px 0px 0px;
    width: 100%;
+   object-fit: cover;
 }
 
 .activites-cards .card {
